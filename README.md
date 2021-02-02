@@ -1,4 +1,6 @@
-
+---
+name: Terrie Simmons-Ehrhardt
+---
 # Terrie Simmons-Ehrhardt, M.A.
 
 I am a biological anthropologist specializing in 3D applications (computed tomography modeling, 3D scanning, 3D printing, web visualization) within forensic anthropology for forensic skeletal identification and facial approximation.
