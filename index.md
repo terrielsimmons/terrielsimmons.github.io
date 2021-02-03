@@ -1,5 +1,3 @@
-# Terrie Simmons-Ehrhardt, M.A.
-
 I am a biological anthropologist specializing in 3D applications (computed tomography modeling, 3D scanning, 3D printing, web visualization) within forensic anthropology for forensic skeletal identification and facial approximation.
 ## Links
 [Figshare](https://figshare.com/authors/Terrie_Simmons-Ehrhardt/2937024) | 
@@ -12,9 +10,12 @@ I am a biological anthropologist specializing in 3D applications (computed tomog
 ## Technical Skills/Software
 3D Slicer, Mimics Innovation Suite, Meshlab, Meshmixer, Fiji, Gimp, NextEngine/ScanStudio, 3D modeling, 3D scanning, 3D printing, some HTML/CSS/Javascript, some Blender.
 
+## Education
+2007, M.A. in Anthropology, Texas State University-San Marcos, TX. Thesis: Bioarchaeological Analysis of Commingled Skeletal Remains from Bee Cave Rockshelter (41VV546), Val Verde County, Texas.
+
+1997 B.S. in Microbiology (Chemistry minor), Texas State University-San Marcos, TX.
+
 ## Projects
-
-
 National Museum of Health and Medicine Repositories on Morphosource:
 
 - [NMHM Paleopathology](https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/617)
