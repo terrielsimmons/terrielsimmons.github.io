@@ -1,4 +1,5 @@
-I am a biological anthropologist specializing in 3D applications (computed tomography modeling, 3D scanning, 3D printing, web visualization) within forensic anthropology for forensic skeletal identification and facial approximation.
+I am a biological anthropologist specializing in 3D applications (computed tomography modeling, 3D scanning, 3D printing, web visualization) within forensic anthropology for forensic skeletal identification and facial approximation. [AAFS 2021 Poster Data](https://terrielsimmons.github.io/AAFS2021/)
+
 ## Links
 [Figshare](https://figshare.com/authors/Terrie_Simmons-Ehrhardt/2937024) | 
 [ORCID](https://orcid.org/0000-0003-3382-8405) | 
@@ -54,7 +55,7 @@ National Museum of Health and Medicine Repositories on Morphosource:
 **2016** Means, B.K., Zechini, M., McCuistion, A., **Simmons-Ehrhardt, T.**, Aronowitz, J., Moore, E., Galke, L., Volkers, L, Hite, V., Ale, L., Rahsman, Z., and Huber, A. Legacy Project # 13-334 Virtual Mobility Archaeology Project with Further Applications of Three-Dimensional Digital Scanning of Archaeological Objects.
 
 ## Conference Presentations
-**2021 Simmons-Ehrhardt, T.** (poster) 3D Web-Based Technologies to Support Interactive Forensic Anthropology Databases. Poster to be presented at the 73rd Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2021 (virtual). [Supplemental] (github.com/terrielsimmons/AAFS2021)
+**2021 Simmons-Ehrhardt, T.** (poster) 3D Web-Based Technologies to Support Interactive Forensic Anthropology Databases. Poster to be presented at the 73rd Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2021 (virtual). [Supplemental](https://terrielsimmons.github.io/AAFS2021/)
 
 **2020 Simmons-Ehrhardt, T.** (poster). Open Osteology: Medical Imaging Databases as Skeletal Reference Collections. 9th Annual Congress of the International Society of Forensic Radiology and Imaging, May 14-16, 2020, Albuquerque, NM. Cancelled due to COVID-19.
 
