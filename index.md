@@ -26,6 +26,26 @@ National Museum of Health and Medicine Repositories on Morphosource:
 - [NMHM Comparative Non-Human](https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/749)
 
 
+## Professional Experience
+Researcher (Department of Forensic Science), Adjunct (School of World Studies), Virginia Commonwealth University, Richmond, VA (Jan 2014-May 2014, Jan 2015-Sept 2017, July 2018-July 2020)
+- Courses Taught: Forensic Anthropology, 3D Visualization Methods (developed), undergraduate independent studies in 3D scanning and facial approximation
+- Rendering and analysis of 3D head models from 100+ CT scans
+- Assisting VCU's Virtual Curation Laboratory with 3D digitization (3D scanning, 3D rendering of CT and micro-CT scans) and dissemination of pathological skeletal specimens from the National Museum of Health and Medicine
+
+ORISE Visiting Scientist, FBI Laboratory, Quantico, VA (Dec 2007-2011)
+- 3D modeling and quantitative analysis of 400+ head CT scans
+- Provided anthropological/user input to researchers at GE Global Research for a computerized facial approximation program
+- Testing and validation of statistically estimated facial approximations
+- Preparation fo presentations and reports for laboratory management and conferences
+
+Archaeological Technician, Center for Archaeological Studies, Texas State University-San Marcos (Aug 2007-Nov 2007)
+- Excavation, mapping, shovel-testing, artifact sorting and curation.
+
+Graduate Assistant, Department of Anthropology, Texas State University-San Marcos (Aug 2005-May 2007)
+- Laboratories taught/courses assisted: Introduction to Physical Anthropology, Techniques in Forensic Anthropology, Forensic Identification.
+- Assisted with search and recovery workshops for law enforcement.
+
+
 ## Publications
 #### 1st Author
 *(in press)* **Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A.B. Using Computed Tomography (CT) Data to Build 3D resources for Forensic Craniofacial Identification, in Biomedical Visualization Vol. 9 (ed. Paul Rea).
@@ -33,6 +53,8 @@ National Museum of Health and Medicine Repositories on Morphosource:
 **2020 Simmons-Ehrhardt, T.L.**, Monson, K.L., Flint, T., Saunders, C.P. Quantitative accuracy and 3D biometric matching of 388 statistically estimated facial approximations of live subjects. Forensic Imaging. https://doi.org/10.1016/j.fri.2020.200377
 
 **2019 Simmons-Ehrhardt, T.L.**, Ehrhardt, C.J., Monson, K.L. Evaluation of the suitability of cranial measurements obtained from surface-rendered CT scans of living people for estimating sex and ancestry. Journal of Forensic Radiology and Imaging, 19:100338. 
+
+**2019 Simmons-Ehrhardt, T.**, Falsetti, C., Ehrhardt, C. Three-Dimensional Craniofacial Variation of Modern Americans: A Visual Reference to Supplement Facial Approximation Methods. Final Summary Overview, National Instirute of Justice Award #2014-DN-BX-K005. https://www.ncjrs.gov/pdffiles1/nij/grants/252745.pdf
 
 **2018 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A., Ehrhardt, C. Open-source tools for dense facial tissue depth mapping of computed tomography models. Human Biology, 90(1):63-76.
 
@@ -46,16 +68,16 @@ National Museum of Health and Medicine Repositories on Morphosource:
 **2009** Ehrhardt, C.J., Chu, V., West, T., **Simmons, T.L.**, Swan, B., Bannan, J., Robertson, J. Use of Fatty Acid Methyl Ester Profiles for Discrimination of Bacillus cereus T-Strain Spores Grown on Different Media. Applied and Environmental Microbiology, 76(6): 1902-1912.
 
 ## Additional Publications
-**2019** Wilson, L., Izbal, K.M., **Simmons-Ehrhardt T.**, Bertino, M.F., Shah, M.R., Yadavalli, V.K., Ehrhardt, C.J. (2019): Application of 3D printed diffusion chamber for studying phenotypes of bacterial pathogens in soil. Figshare. Dataset. https://doi.org/10.6084/m9.figshare.7040411.v1.
+**2019** Wilson, L., Izbal, K.M., **Simmons-Ehrhardt T.**, Bertino, M.F., Shah, M.R., Yadavalli, V.K., Ehrhardt, C.J. (2019): Application of 3D printed diffusion chamber for studying phenotypes of bacterial pathogens in soil. Figshare. Dataset. https://doi.org/10.6084/m9.figshare.7040411.v1
 
-**2017 Simmons-Ehrhardt, T.**, Falsetti, C.S., Falsetti, A., Ehrhardt, C. User Guide: Dense facial tissue depth mapping of 3D CT models using Meshlab. Figshare. https://doi.org/10.6084/m9.figshare.5082445.v1.
+**2017 Simmons-Ehrhardt, T.**, Falsetti, C.S., Falsetti, A., Ehrhardt, C. User Guide: Dense facial tissue depth mapping of 3D CT models using Meshlab. Figshare. https://doi.org/10.6084/m9.figshare.5082445.v1
 
-**2017 Simmons-Ehrhardt, T.**, Falsetti, C.S., Falsetti, A. Ehrhardt, C. Fileset: Procedure for transforming 3D computed tomography (CT) skull and face models to a common orientation. Figshare. https://doi.org/10.6084/m9.figshare.4924694.v1.
+**2017 Simmons-Ehrhardt, T.**, Falsetti, C.S., Falsetti, A. Ehrhardt, C. Fileset: Procedure for transforming 3D computed tomography (CT) skull and face models to a common orientation. Figshare. https://doi.org/10.6084/m9.figshare.4924694.v1
 
 **2016** Means, B.K., Zechini, M., McCuistion, A., **Simmons-Ehrhardt, T.**, Aronowitz, J., Moore, E., Galke, L., Volkers, L, Hite, V., Ale, L., Rahsman, Z., and Huber, A. Legacy Project # 13-334 Virtual Mobility Archaeology Project with Further Applications of Three-Dimensional Digital Scanning of Archaeological Objects.
 
 ## Conference Presentations
-**2021 Simmons-Ehrhardt, T.** (poster) 3D Web-Based Technologies to Support Interactive Forensic Anthropology Databases. Poster to be presented at the 73rd Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2021 (virtual). [Supplemental](https://terrielsimmons.github.io/AAFS2021/)
+**2021 Simmons-Ehrhardt, T.** (poster) 3D Web-Based Technologies to Support Interactive Forensic Anthropology Databases. Poster to be presented at the 73rd Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2021 (virtual). https://doi.org/10.6084/m9.figshare.14264132.v1 [Supplemental](https://terrielsimmons.github.io/AAFS2021/)
 
 **2020 Simmons-Ehrhardt, T.** (poster). Open Osteology: Medical Imaging Databases as Skeletal Reference Collections. 9th Annual Congress of the International Society of Forensic Radiology and Imaging, May 14-16, 2020, Albuquerque, NM. Cancelled due to COVID-19.
 
@@ -63,23 +85,23 @@ National Museum of Health and Medicine Repositories on Morphosource:
 
 **2019 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A. Three-dimensional (3D) Craniofacial Identification Resources for Quantification, Immersion, and Collaboration. (oral--online) International Association of Craniofacial Identification, July 2019, Baton Rouge, LA. Virtual due to Tropical Storm Barry.
 
-**2019 Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Schaefer, A.D., Pearlstein, K.E. Modernizing Medical Museums Through the 3D Digitization of Pathological Specimens. Poster presented at the 46th Annual North American Meeting of the Paleopathology Association, March 2019, Cleveland, OH. https://doi.org/10.6084/m9.figshare.11317787.v1.
+**2019 Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Schaefer, A.D., Pearlstein, K.E. Modernizing Medical Museums Through the 3D Digitization of Pathological Specimens. Poster presented at the 46th Annual North American Meeting of the Paleopathology Association, March 2019, Cleveland, OH. https://doi.org/10.6084/m9.figshare.11317787.v1
 
-**2019 Simmons-Ehrhardt, T.**, Falsetti, A.B., Falsetti, C.S., Ehrhardt, C.J. Interactive Resources for Craniofacial Identification. Poster presented at the 71st Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2019, Baltimore, MD. https://doi.org/10.6084/m9.figshare.7749680.v1.
+**2019 Simmons-Ehrhardt, T.**, Falsetti, A.B., Falsetti, C.S., Ehrhardt, C.J. Interactive Resources for Craniofacial Identification. Poster presented at the 71st Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2019, Baltimore, MD. https://doi.org/10.6084/m9.figshare.7749680.v1
 
-**2018 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A., Ehrhardt, C. Enhancing Craniofacial Identification Methods with CT Data. Invited poster presented at the “Thinking Computationally About Forensics” symposium at the American Association of Physical Anthropologists Annual Meeting, April 2018, Austin, TX. https://doi.org/10.6084/m9.figshare.6804092.v2.
+**2018 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A., Ehrhardt, C. Enhancing Craniofacial Identification Methods with CT Data. Invited poster presented at the “Thinking Computationally About Forensics” symposium at the American Association of Physical Anthropologists Annual Meeting, April 2018, Austin, TX. https://doi.org/10.6084/m9.figshare.6804092.v2
 
-**2018** Falsetti, A., **Simmons-Ehrhardt, T.**, Falsetti, C., Ehrhardt, C. Facilitating Practitioner Interaction with 3D Craniofacial Identification Resources. Invited poster presented at the “Thinking Computationally About Forensics” symposium at the American Association of Physical Anthropologists Annual Meeting, April 2018, Austin, TX. https://doi.org/10.6084/m9.figshare.6804224.v1.
+**2018** Falsetti, A., **Simmons-Ehrhardt, T.**, Falsetti, C., Ehrhardt, C. Facilitating Practitioner Interaction with 3D Craniofacial Identification Resources. Invited poster presented at the “Thinking Computationally About Forensics” symposium at the American Association of Physical Anthropologists Annual Meeting, April 2018, Austin, TX. https://doi.org/10.6084/m9.figshare.6804224.v1
 
-**2018** Wilson, L.C., **Simmons-Ehrhardt, T.**, Shah, M.R., Bertino, M., Yadavalli, V.K., Ehrhardt, C.J. Investigating biochemical phenotypes of Yersinia pestis in soil matrices using novel 3D printed culturing apparatus. Poster presented at the American Society for Microbiology Biothreats Meeting 2018, February 2018, Baltimore, MD. F1000. https://f1000research.com/posters/7-172.
+**2018** Wilson, L.C., **Simmons-Ehrhardt, T.**, Shah, M.R., Bertino, M., Yadavalli, V.K., Ehrhardt, C.J. Investigating biochemical phenotypes of Yersinia pestis in soil matrices using novel 3D printed culturing apparatus. Poster presented at the American Society for Microbiology Biothreats Meeting 2018, February 2018, Baltimore, MD. F1000. https://f1000research.com/posters/7-172
 
 **2018** Kyllonen, K, **Simmons-Ehrhardt, T.**, Monson, K.L. Stature estimation using measurements of the cranium for populations in the United States. Poster presented at the 70th Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2018, New Orleans, LA.
 
 **2017** Means, B.K., **Simmons-Ehrhardt, T.** Beyond the valley of the mastodons: 3-D technology and the mastodons of North America. Poster presented at the Valley of the Mastodons workshop, July 2017, Hemet, CA.
 
-**2016 Simmons-Ehrhardt, T.** Falsetti, C.S., Ehrhardt, C. Innovative Uses of CT Scans for the Enhancement of Forensic Facial Approximation Methods: A Collaboration Between Forensic Science Researchers and Facial Approximation Practitioners. Poster presented at the 101st International Association for Identification Forensic Educational Conference, August 2016, Cincinnati, OH. https://doi.org/10.6084/m9.figshare.3627162.v1.
+**2016 Simmons-Ehrhardt, T.** Falsetti, C.S., Ehrhardt, C. Innovative Uses of CT Scans for the Enhancement of Forensic Facial Approximation Methods: A Collaboration Between Forensic Science Researchers and Facial Approximation Practitioners. Poster presented at the 101st International Association for Identification Forensic Educational Conference, August 2016, Cincinnati, OH. https://doi.org/10.6084/m9.figshare.3627162.v1
 
-**2016 Simmons-Ehrhardt, T.**, Falsetti, C.S., Ehrhardt, C. Craniofacial Analysis of 3D Computed Tomography (CT) Models and a New Method for Dense Facial Tissue Depth Mapping: A Collaboration between Forensic Science Researchers and Forensic Art Practitioners. Poster presented at the 68th Annual Meeting of the American Academy of Forensic Sciences, Las Vegas, NV. https://doi.org/10.6084/m9.figshare.3582222.v1.
+**2016 Simmons-Ehrhardt, T.**, Falsetti, C.S., Ehrhardt, C. Craniofacial Analysis of 3D Computed Tomography (CT) Models and a New Method for Dense Facial Tissue Depth Mapping: A Collaboration between Forensic Science Researchers and Forensic Art Practitioners. Poster presented at the 68th Annual Meeting of the American Academy of Forensic Sciences, Las Vegas, NV. https://doi.org/10.6084/m9.figshare.3582222.v1
 
 **2015** Means, B.K., **Simmons-Ehrhardt, T.**, Simmons, T.L. Creating a Customized 3D Printed Osteology Study Collection. Oral presentation at the 2nd Annual Mid-Atlantic Bioanthropology Interest Group, October 2015, Richmond, VA.
 
