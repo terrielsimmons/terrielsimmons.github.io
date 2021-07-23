@@ -9,7 +9,7 @@ I am a biological anthropologist specializing in 3D applications (computed tomog
 [Embodi3D](https://www.embodi3d.com/profile/748-tsehrhardt/)
 
 ## Technical Skills/Software
-3D Slicer, Mimics Innovation Suite, Meshlab, Meshmixer, Fiji, Gimp, NextEngine/ScanStudio, 3D modeling, 3D scanning, 3D printing, some HTML/CSS/Javascript, some Blender.
+3D Slicer, Mimics Innovation Suite and 3-matic, Meshlab, Meshmixer, Fiji, Gimp, NextEngine/ScanStudio, 3D modeling(CT and microCT), 3D scanning, 3D printing (Cura, MatterControl, Simplify3D), some HTML/CSS/Javascript, some Blender.
 
 ## Education
 2007, M.A. in Anthropology, Texas State University-San Marcos, TX. Thesis: Bioarchaeological Analysis of Commingled Skeletal Remains from Bee Cave Rockshelter (41VV546), Val Verde County, Texas.
@@ -25,12 +25,16 @@ National Museum of Health and Medicine Repositories on Morphosource:
 
 - [NMHM Comparative Non-Human](https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/749)
 
+## Professional Service
+- 3D digitization of unidentified cases for forensic facial approximation, including digital repair (if needed), proper orientation for 2D images, facial feature input.
+- Co-organizer of the BioAntTalks Virtual Osteology conference (May 24-28, 2021) on [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG). [Abstracts:](https://drive.google.com/file/d/1le9sWy9Z2xF91ugiHoJvAfyWWus487r5/view)
+- Co-founder of the [Virtual Human Osteology Facebook Discussion Group](https://www.facebook.com/groups/virtualhumanosteology/).
+- Assisting VCU's Virtual Curation Laboratory with 3D digitization (3D scanning, 3D rendering of CT and micro-CT scans) and dissemination of pathological skeletal specimens from the National Museum of Health and Medicine
 
 ## Professional Experience
 Researcher (Department of Forensic Science), Adjunct (School of World Studies), Virginia Commonwealth University, Richmond, VA (Jan 2014-May 2014, Jan 2015-Sept 2017, July 2018-July 2020)
 - Courses Taught: Forensic Anthropology, 3D Visualization Methods (developed), undergraduate independent studies in 3D scanning and facial approximation
 - Rendering and analysis of 3D head models from 100+ CT scans
-- Assisting VCU's Virtual Curation Laboratory with 3D digitization (3D scanning, 3D rendering of CT and micro-CT scans) and dissemination of pathological skeletal specimens from the National Museum of Health and Medicine
 
 ORISE Visiting Scientist, FBI Laboratory, Quantico, VA (Dec 2007-2011)
 - 3D modeling and quantitative analysis of 400+ head CT scans
@@ -45,12 +49,16 @@ Graduate Assistant, Department of Anthropology, Texas State University-San Marco
 - Laboratories taught/courses assisted: Introduction to Physical Anthropology, Techniques in Forensic Anthropology, Forensic Identification.
 - Assisted with search and recovery workshops for law enforcement.
 
+## Book Chapters
+**2021 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A.B. Using Computed Tomography (CT) Data to Build 3D resources for Forensic Craniofacial Identification. In: Rea P.M. (ed) Biomedical Visualization Vol. 9. Advances in Experimental Medicine and Biology, Vol. 1317. Springer, Cham. https://doi.org/10.1007/978-3-030-61125-5_4
 
-## Publications
+*(in press)* Pearlstein, K.E., **Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Mani, M.R. Modernizing Medical Museums through the 3D Digitization of Pathological Specimens, in Biomeical Visualization Vol. 10 (ed. Paul Rea).
+
+## Journal Articles
 #### 1st Author
-*(in press)* **Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A.B. Using Computed Tomography (CT) Data to Build 3D resources for Forensic Craniofacial Identification, in Biomedical Visualization Vol. 9 (ed. Paul Rea).
+**2021 Simmons-Ehrhardt, T.** Open osteology: medical imaging datasets as skeletal collections. Forensic Imaging 26:200462. https://doi.org/10.1016/j.fri.2021.200462
 
-**2020 Simmons-Ehrhardt, T.L.**, Monson, K.L., Flint, T., Saunders, C.P. Quantitative accuracy and 3D biometric matching of 388 statistically estimated facial approximations of live subjects. Forensic Imaging. https://doi.org/10.1016/j.fri.2020.200377
+**2020 Simmons-Ehrhardt, T.L.**, Monson, K.L., Flint, T., Saunders, C.P. Quantitative accuracy and 3D biometric matching of 388 statistically estimated facial approximations of live subjects. Forensic Imaging 21:200377. https://doi.org/10.1016/j.fri.2020.200377
 
 **2019 Simmons-Ehrhardt, T.L.**, Ehrhardt, C.J., Monson, K.L. Evaluation of the suitability of cranial measurements obtained from surface-rendered CT scans of living people for estimating sex and ancestry. Journal of Forensic Radiology and Imaging, 19:100338. 
 
@@ -59,8 +67,6 @@ Graduate Assistant, Department of Anthropology, Texas State University-San Marco
 **2018 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A., Ehrhardt, C. Open-source tools for dense facial tissue depth mapping of computed tomography models. Human Biology, 90(1):63-76.
 
 #### Co-Author
-*(in review)* Pearlstein, K.E., **Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Mani, M.R. Modernizing Medical Museums through the 3D Digitization of Pathological Specimens, in Biomeical Visualization Vol. 10 (ed. Paul Rea).
-
 **2019** Wilson, L., Iqbal, K.M., **Simmons-Ehrhardt, T.**, Bertino, M.F., Shah, M.R., Yadavalli, V.K., Ehrhardt, C.J. Customizable 3D printed diffusion chambers for studies of bacterial pathogen phenotypes in complex environments. Journal of Microbiological Methods, 162:8-15.
 
 **2017** Kyllonen, K.M., **Simmons-Ehrhardt, T.**, Monson, K.L. Stature estimation using measurements of the cranium for populations in the United States. Forensic Science International, 281:184.e1-184.e9.
@@ -76,7 +82,12 @@ Graduate Assistant, Department of Anthropology, Texas State University-San Marco
 
 **2016** Means, B.K., Zechini, M., McCuistion, A., **Simmons-Ehrhardt, T.**, Aronowitz, J., Moore, E., Galke, L., Volkers, L, Hite, V., Ale, L., Rahsman, Z., and Huber, A. Legacy Project # 13-334 Virtual Mobility Archaeology Project with Further Applications of Three-Dimensional Digital Scanning of Archaeological Objects.
 
+## Conference Workshops
+**2021 Simmons-Ehrhardt, T.** Meshlab for Virtual Osteology, Pt. 1 and Pt. 2. BioantTalks Virtual Osteology Conference, May 24-28, 2021.  [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG)
+
 ## Conference Presentations
+**2021 Simmons-Ehrhardt, T.** Open Resources for Virtual Osteology. Presentation at the BioantTalks Virtual Osteology Conference, May 24-28, 2021. [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG)
+
 **2021 Simmons-Ehrhardt, T.** (poster) 3D Web-Based Technologies to Support Interactive Forensic Anthropology Databases. Poster to be presented at the 73rd Annual Scientific Meeting of the American Academy of Forensic Sciences, February 2021 (virtual). https://doi.org/10.6084/m9.figshare.14264132.v1 [Supplemental](https://terrielsimmons.github.io/AAFS2021/)
 
 **2020 Simmons-Ehrhardt, T.** (poster). Open Osteology: Medical Imaging Databases as Skeletal Reference Collections. 9th Annual Congress of the International Society of Forensic Radiology and Imaging, May 14-16, 2020, Albuquerque, NM. Cancelled due to COVID-19.
@@ -126,4 +137,4 @@ International Association of Craniofacial Identification
 
 International Association for Identification
 
-American Association of Physical Anthropologists
+American Association of Biological Anthropologists
