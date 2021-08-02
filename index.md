@@ -8,16 +8,22 @@ I am a biological anthropologist specializing in 3D applications (computed tomog
 [LinkedIn](www.linkedin.com/in/terrie-simmons-ehrhardt-6653a72b) | 
 [Embodi3D](https://www.embodi3d.com/profile/748-tsehrhardt/)
 
-## Technical Skills/Software
-3D Slicer, Mimics Innovation Suite and 3-matic, Meshlab, Meshmixer, Fiji, Gimp, NextEngine/ScanStudio, 3D modeling(CT and microCT), 3D scanning, 3D printing (Cura, MatterControl, Simplify3D), some HTML/CSS/Javascript, some Blender.
+## Technical Skills/Hardware/Software
+3D modeling (CT and microCT), 3D scanning, 3D printing, 3D Slicer, Mimics Innovation Suite and 3-matic, Meshlab, Meshmixer, Fiji, Gimp, NextEngine/ScanStudio, Structure Sensor, TRNIO, Cura, MatterControl, Simplify3D, Agisoft Metashape, some HTML/CSS/Javascript, Blender
+
+## Certifications
+Certified Mimics User
 
 ## Education
 2007, M.A. in Anthropology, Texas State University-San Marcos, TX. Thesis: Bioarchaeological Analysis of Commingled Skeletal Remains from Bee Cave Rockshelter (41VV546), Val Verde County, Texas.
 
 1997 B.S. in Microbiology (Chemistry minor), Texas State University-San Marcos, TX.
 
-## Projects
-National Museum of Health and Medicine Repositories on Morphosource:
+## Ongoing Projects
+- 3D digitization of unidentified cases for forensic facial approximation, including digital repair (if needed), proper orientation for 2D images, facial feature input.
+- Assisting VCU's Virtual Curation Laboratory with 3D digitization (3D scanning, 3D rendering of CT and micro-CT scans) and dissemination of pathological skeletal specimens from the National Museum of Health and Medicine
+
+Repositories on Morphosource:
 
 - [NMHM Paleopathology](https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/617)
 
@@ -25,16 +31,17 @@ National Museum of Health and Medicine Repositories on Morphosource:
 
 - [NMHM Comparative Non-Human](https://www.morphosource.org/Detail/ProjectDetail/Show/project_id/749)
 
-## Professional Service
-- 3D digitization of unidentified cases for forensic facial approximation, including digital repair (if needed), proper orientation for 2D images, facial feature input.
-- Co-organizer of the BioAntTalks Virtual Osteology conference (May 24-28, 2021) on [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG). [Abstracts:](https://drive.google.com/file/d/1le9sWy9Z2xF91ugiHoJvAfyWWus487r5/view)
-- Co-founder of the [Virtual Human Osteology Facebook Discussion Group](https://www.facebook.com/groups/virtualhumanosteology/).
-- Assisting VCU's Virtual Curation Laboratory with 3D digitization (3D scanning, 3D rendering of CT and micro-CT scans) and dissemination of pathological skeletal specimens from the National Museum of Health and Medicine
+## Outreach
+- Co-organizer of the BioAntTalks Virtual Osteology conference (May 24-28, 2021) on [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG). [Abstracts](https://drive.google.com/file/d/1le9sWy9Z2xF91ugiHoJvAfyWWus487r5/view)
+- Co-founder and co-admin of the [Virtual Human Osteology Facebook Discussion Group](https://www.facebook.com/groups/virtualhumanosteology/).
+- Contributor to Embodi3d.com
+- Craniofacial Identification Blog (www.forensiccraniofacialid.wordpress.com)
 
 ## Professional Experience
 Researcher (Department of Forensic Science), Adjunct (School of World Studies), Virginia Commonwealth University, Richmond, VA (Jan 2014-May 2014, Jan 2015-Sept 2017, July 2018-July 2020)
 - Courses Taught: Forensic Anthropology, 3D Visualization Methods (developed), undergraduate independent studies in 3D scanning and facial approximation
 - Rendering and analysis of 3D head models from 100+ CT scans
+- Assisted with forensic anthropology casework at the Office of the Chief Medical Examiner, Richmond, VA
 
 ORISE Visiting Scientist, FBI Laboratory, Quantico, VA (Dec 2007-2011)
 - 3D modeling and quantitative analysis of 400+ head CT scans
