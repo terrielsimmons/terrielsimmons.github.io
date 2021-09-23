@@ -3,7 +3,7 @@ I am a biological anthropologist specializing in 3D applications (computed tomog
 ## Links
 [Figshare](https://figshare.com/authors/Terrie_Simmons-Ehrhardt/2937024) | 
 [ORCID](https://orcid.org/0000-0003-3382-8405) | 
-[Sketchfab](sketchfab.com/terrielsimmons) | 
+[Sketchfab](https://sketchfab.com/terrielsimmons) | 
 [Twitter](https://twitter.com/terriebones3D) | 
 [LinkedIn](www.linkedin.com/in/terrie-simmons-ehrhardt-6653a72b) | 
 [Embodi3D](https://www.embodi3d.com/profile/748-tsehrhardt/)
@@ -57,9 +57,9 @@ Graduate Assistant, Department of Anthropology, Texas State University-San Marco
 - Assisted with search and recovery workshops for law enforcement.
 
 ## Book Chapters
-**2021 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A.B. Using Computed Tomography (CT) Data to Build 3D resources for Forensic Craniofacial Identification. In: Rea P.M. (ed) Biomedical Visualization Vol. 9. Advances in Experimental Medicine and Biology, Vol. 1317. Springer, Cham. https://doi.org/10.1007/978-3-030-61125-5_4
+**2021 Simmons-Ehrhardt, T.**, Falsetti, C., Falsetti, A.B. Using Computed Tomography (CT) Data to Build 3D resources for Forensic Craniofacial Identification. In: Rea P.M. (ed) Biomedical Visualization Vol. 9. Advances in Experimental Medicine and Biology, Vol. 1317. Springer, Cham. [https://doi.org/10.1007/978-3-030-61125-5_4](https://doi.org/10.1007/978-3-030-61125-5_4)
 
-*(in press)* Pearlstein, K.E., **Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Mani, M.R. Modernizing Medical Museums through the 3D Digitization of Pathological Specimens, in Biomeical Visualization Vol. 10 (ed. Paul Rea).
+**2021** Pearlstein, K.E., **Simmons-Ehrhardt, T.**, Spatola, B.F., Means, B.K., Mani, M.R. Modernizing Medical Museums through the 3D Digitization of Pathological Specimens. In: Rea P.M. (ed) Biomedical Visualization Vol. 10. Advances in Experimental Medicine and Biology, Vol. 1334. Springer, Cham. [https://doi.org/10.1007/978-3-030-76951-2_9](https://doi.org/10.1007/978-3-030-76951-2_9)
 
 ## Journal Articles
 #### 1st Author
