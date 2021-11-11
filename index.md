@@ -87,7 +87,7 @@ Graduate Assistant, Department of Anthropology, Texas State University-San Marco
 
 **2017 Simmons-Ehrhardt, T.**, Falsetti, C.S., Falsetti, A. Ehrhardt, C. Fileset: Procedure for transforming 3D computed tomography (CT) skull and face models to a common orientation. Figshare. [https://doi.org/10.6084/m9.figshare.4924694.v1](https://doi.org/10.6084/m9.figshare.4924694.v1)
 
-**2016** Means, B.K., Zechini, M., McCuistion, A., **Simmons-Ehrhardt, T.**, Aronowitz, J., Moore, E., Galke, L., Volkers, L, Hite, V., Ale, L., Rahsman, Z., and Huber, A. Legacy Project # 13-334 [Virtual Mobility Archaeology Project with Further Applications of Three-Dimensional Digital Scanning of Archaeological Objects].(https://www.academia.edu/28265360/Virtual_Mobility_Archaeology_Project_With_Further_Applications_of_Three_Dimensional_Digital_Scanning_of_Archaeological_Objects_Project_13_334)
+**2016** Means, B.K., Zechini, M., McCuistion, A., **Simmons-Ehrhardt, T.**, Aronowitz, J., Moore, E., Galke, L., Volkers, L, Hite, V., Ale, L., Rahsman, Z., and Huber, A. Legacy Project # 13-334 [Virtual Mobility Archaeology Project with Further Applications of Three-Dimensional Digital Scanning of Archaeological Objects](https://www.academia.edu/28265360/Virtual_Mobility_Archaeology_Project_With_Further_Applications_of_Three_Dimensional_Digital_Scanning_of_Archaeological_Objects_Project_13_334)
 
 ## Invited Conference Workshops
 **2021 Simmons-Ehrhardt, T.** Meshlab for Virtual Osteology, Pt. 1 and Pt. 2. BioantTalks Virtual Osteology Conference, May 24-28, 2021.  [YouTube](https://youtube.com/playlist?list=PLnM-MDORLbrdf1lItBN8cFxokT6gOR9FG)
